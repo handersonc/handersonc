@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 - [Flask — Flask-Restful — Marshmallow- SqlAlchemy Suit](https://medium.com/analytics-vidhya/flask-flask-restful-marshmallow-sqlalchemy-suit-e3fb880064a8?source=rss-d04d018da2bd------2)
 - [Connecting Angular+ with Multiple Firebase Projects](https://medium.com/analytics-vidhya/connecting-angular-with-multiple-firebase-projects-889bb7de1f56?source=rss-d04d018da2bd------2)
 - [Streaming Data with Dataflow and Apache Beam](https://medium.com/analytics-vidhya/streaming-data-with-dataflow-and-apache-beam-20cd786649bc?source=rss-d04d018da2bd------2)
+- [Where should I run my Code on Google Cloud Platform?](https://medium.com/@handersonc/where-should-i-run-my-code-on-google-cloud-platform-d5faa325846f?source=rss-d04d018da2bd------2)
+- [Extending Bootstrap using sass and pug](https://medium.com/@handersonc/setting-up-a-base-project-to-customize-and-extend-bootstrap-using-sass-and-pug-72c357974204?source=rss-d04d018da2bd------2)
 <!-- BLOG-POST-LIST:END -->
 
 
