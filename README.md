@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div id="badges">
   <a href="https://www.linkedin.com/in/handersonc" aklt="LinekdIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> or
+  </a>
   <a href="https://www.linkedin.com/in/handersonc" at="Medium">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
